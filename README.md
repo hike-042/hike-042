@@ -75,6 +75,14 @@ Dual background (CSE + MBA-HR) means I build for how recruiters actually work, n
 
 ---
 
+## Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hike-042&theme=darkhub&no-frame=true&margin-w=8&row=1" alt="hike-042 trophies" />
+</p>
+
+---
+
 ## Deep Metrics
 
 <p align="center">
@@ -95,6 +103,12 @@ Dual background (CSE + MBA-HR) means I build for how recruiters actually work, n
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=hike-042&theme=github-dark&mode=light" />
     <img src="https://www.gitskins.com/api/section/projects?username=hike-042&theme=github-dark" alt="hike-042 projects section" />
   </picture>
+</p>
+
+<p align="center">
+  <a href="https://star-history.com/#hike-042/straw-hat-pirate-crew&Date">
+    <img src="https://api.star-history.com/svg?repos=hike-042/straw-hat-pirate-crew&type=Date" alt="star history for straw-hat-pirate-crew" width="500"/>
+  </a>
 </p>
 
 ---
@@ -155,6 +169,16 @@ Dual background (CSE + MBA-HR) means I build for how recruiters actually work, n
 </p>
 
 <p align="center"><sub>Building in public, one repo at a time.</sub></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hike-042&label=Profile+Views&color=7ee787&style=flat-square" alt="profile views" />
+</p>
+
+## Guestbook
+
+<p align="center">Leave a note, saved as a real GitHub comment.</p>
+
+<p align="center"><a href="https://github.com/hike-042/hike-042/issues/1">Sign the guestbook →</a></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,20&height=100&section=footer" width="100%"/>
