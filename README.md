@@ -98,4 +98,13 @@ Dual background (CSE + MBA-HR) means I build for how recruiters actually work, n
   </picture>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhanush-kumar-97a6b5182/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://dhanushkumarr.blogspot.com">
+    <img src="https://img.shields.io/badge/-Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+  </a>
+</p>
+
 <p align="center"><sub>Building in public, one repo at a time.</sub></p>
