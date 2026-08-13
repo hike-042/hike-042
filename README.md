@@ -1,5 +1,15 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,20&height=140&section=header&animation=fadeIn" width="100%"/>
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/hike-042/hike-042/main/intro.svg" alt="hike-042 intro animation" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=7EE787&center=true&vCenter=true&width=650&lines=AI+Automation+Engineer+%40+NetConnect+Global;Recruitment+Automation+%2B+AI+Tooling;MBA-HR+%2B+CSE+%7C+Bengaluru%2C+India;One+Piece+Fan+%7C+Building+in+Public" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -80,11 +90,15 @@ Dual background (CSE + MBA-HR) means I build for how recruiters actually work, n
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hike-042&theme=github-dark&hide_border=true" alt="hike-042 streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=hike-042&theme=github-dark&hide_border=true&card_width=600" alt="hike-042 streak stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hike-042&theme=react-dark&hide_border=true" alt="hike-042 activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hike-042/hike-042/output/github-contribution-grid-snake.svg" alt="hike-042 snake animation" />
 </p>
 
 ---
@@ -108,3 +122,7 @@ Dual background (CSE + MBA-HR) means I build for how recruiters actually work, n
 </p>
 
 <p align="center"><sub>Building in public, one repo at a time.</sub></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,20&height=100&section=footer" width="100%"/>
+</p>
