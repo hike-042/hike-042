@@ -5,21 +5,21 @@ on:
     - cron: "0 0 * * *"      # daily
   workflow_dispatch: {}
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          username: hike-042
+          USERNAME: ${{ github.repository_owner }}
       - name: Commit and push
         run: |
           git config user.name github-actions
-          git config user.email actions@github.com
-          git add -A ./profile-3d-contrib && git commit -m "Update 3D contribution graph" || echo "no changes"
-          git push
+          git config user.email github-actions@github.com
+          git add -A ./profile-3d-contrib
+          if git commit -m "Update 3D contribution graph"; then git push; fi
