@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/hike-042/hike-042/main/boot-sequence.svg" alt="boot sequence" />
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=7EE787&center=true&vCenter=true&width=650&lines=AI+Automation+Engineer+%40+NetConnect+Global;Recruitment+Automation+%2B+AI+Tooling;MBA-HR+%2B+CSE+%7C+Bengaluru%2C+India;One+Piece+Fan+%7C+Building+in+Public" alt="Typing SVG" />
   </a>
@@ -71,6 +75,14 @@ Dual background (CSE + MBA-HR) means I build for how recruiters actually work, n
 
 ---
 
+## Deep Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hike-042/hike-042/main/metrics.svg" alt="hike-042 detailed metrics" />
+</p>
+
+---
+
 ## Projects
 
 - **[straw-hat-pirate-crew](https://github.com/hike-042/straw-hat-pirate-crew)**: Interactive One Piece Straw Hat timeskip reveal page
@@ -101,6 +113,21 @@ Dual background (CSE + MBA-HR) means I build for how recruiters actually work, n
   <img src="https://raw.githubusercontent.com/hike-042/hike-042/output/github-contribution-grid-snake.svg" alt="hike-042 snake animation" />
 </p>
 
+### 3D View
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hike-042/hike-042/main/profile-3d-contrib/profile-night-green.svg" alt="hike-042 3D contribution graph" />
+</p>
+
+---
+
+## Latest from the Blog
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<p align="center"><a href="https://dhanushkumarr.blogspot.com">Read more on the blog →</a></p>
+
 ---
 
 ## Connect
@@ -119,6 +146,12 @@ Dual background (CSE + MBA-HR) means I build for how recruiters actually work, n
   <a href="https://dhanushkumarr.blogspot.com">
     <img src="https://img.shields.io/badge/-Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://dhanushkumar-portfolio-coral.vercel.app&bgcolor=0d1117&color=7ee787" alt="Scan for portfolio" />
+  <br/>
+  <sub>scan for portfolio</sub>
 </p>
 
 <p align="center"><sub>Building in public, one repo at a time.</sub></p>
