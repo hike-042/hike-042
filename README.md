@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./intro.svg" alt="hike-042 intro animation" />
+  <img src="https://raw.githubusercontent.com/hike-042/hike-042/main/intro.svg" alt="hike-042 intro animation" />
 </p>
 
 <p align="center">
