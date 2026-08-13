@@ -1,1 +1,77 @@
+<svg width="700" height="220" viewBox="0 0 700 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .prompt {
+        font-family: 'Courier New', monospace;
+        font-size: 16px;
+        fill: #7ee787;
+      }
+      .ascii {
+        font-family: 'Courier New', monospace;
+        font-size: 15px;
+        white-space: pre;
+      }
+      .subtext {
+        font-family: 'Courier New', monospace;
+        font-size: 14px;
+        fill: #8b949e;
+      }
 
+      .stage1 {
+        opacity: 0;
+        animation: showStage1 6s ease-in-out infinite;
+      }
+      @keyframes showStage1 {
+        0%   { opacity: 0; transform: translateX(-16px); }
+        6%   { opacity: 1; transform: translateX(0); }
+        42%  { opacity: 1; transform: translateX(0); }
+        48%  { opacity: 0; transform: translateX(16px); }
+        100% { opacity: 0; }
+      }
+
+      .stage2 {
+        opacity: 0;
+        animation: showStage2 6s ease-in-out infinite;
+      }
+      @keyframes showStage2 {
+        0%   { opacity: 0; }
+        48%  { opacity: 0; transform: translateX(-16px); }
+        54%  { opacity: 1; transform: translateX(0); }
+        94%  { opacity: 1; transform: translateX(0); }
+        100% { opacity: 0; transform: translateX(16px); }
+      }
+
+      .stage1 .ascii { fill: #e6edf3; }
+      .stage2 .ascii { fill: #7ee787; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="700" height="220" rx="10"/>
+
+  <!-- Stage 1: hike-042 ascii block -->
+  <g class="stage1">
+    <text x="24" y="28" class="prompt">hike-042@github :~$ whoami</text>
+    <text x="24" y="58" class="ascii">
+      <tspan x="24" dy="0"> _     _ _               ___  _  _  ____  </tspan>
+      <tspan x="24" dy="18">| |__ (_) | _____       / _ \| || ||___ \ </tspan>
+      <tspan x="24" dy="18">| '_ \| | |/ / _ \_____| | | | || |_ __) |</tspan>
+      <tspan x="24" dy="18">| | | | |   &lt;  __/_____| |_| |__   _/ __/ </tspan>
+      <tspan x="24" dy="18">|_| |_|_|_|\_\___|      \___/   |_||_____|</tspan>
+    </text>
+    <text x="24" y="180" class="subtext">github handle</text>
+  </g>
+
+  <!-- Stage 2: Arco ascii block -->
+  <g class="stage2">
+    <text x="24" y="28" class="prompt">hike-042@github :~$ cat identity.txt</text>
+    <text x="24" y="58" class="ascii">
+      <tspan x="24" dy="0">    _                  </tspan>
+      <tspan x="24" dy="18">   / \   _ __ ___ ___  </tspan>
+      <tspan x="24" dy="18">  / _ \ | '__/ __/ _ \ </tspan>
+      <tspan x="24" dy="18"> / ___ \| | | (_| (_) |</tspan>
+      <tspan x="24" dy="18">/_/   \_\_|  \___\___/ </tspan>
+    </text>
+    <text x="24" y="180" class="subtext">AI Automation Engineer, NetConnect Global</text>
+  </g>
+</svg>
