@@ -10,7 +10,7 @@
 </p>
 
 <h3 align="center">AI Automation Engineer @ NetConnect Global</h3>
-<p align="center">MBA-HR + CSE background · Building recruitment automation & AI tooling · Bengaluru, India</p>
+<p align="center">MBA-HR + CSE background · Building recruitment automation and AI tooling · Bengaluru, India</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=3776AB" />
@@ -24,7 +24,7 @@
 
 ## About Me
 
-I convert recruiter workflows into automated pipelines. Started as a Talent Acquisition Intern, moved into AI Automation Engineering, and now build the tools that TA teams at NCG use daily — Boolean/X-Ray sourcing generators, LinkedIn content systems, and ATS scoring engines.
+I convert recruiter workflows into automated pipelines. Started as a Talent Acquisition Intern, moved into AI Automation Engineering, and now build the tools that TA teams at NCG use daily: Boolean/X-Ray sourcing generators, LinkedIn content systems, and ATS scoring engines.
 
 Dual background (CSE + MBA-HR) means I build for how recruiters actually work, not just what's technically interesting.
 
@@ -63,10 +63,10 @@ Dual background (CSE + MBA-HR) means I build for how recruiters actually work, n
 
 ## Projects
 
-- **[straw-hat-pirate-crew](https://github.com/hike-042/straw-hat-pirate-crew)** — Interactive One Piece Straw Hat timeskip reveal page
-- **[dhanushkumar-portfolio](https://github.com/hike-042/dhanushkumar-portfolio)** — Personal portfolio, built with TypeScript
-- **[amourai](https://github.com/hike-042/amourai)** — AI joke chatbot, dual avatars, voice + lip sync, 18 agents (Flask + Groq)
-- **[suicidal-ideation-detection-nlp](https://github.com/hike-042/suicidal-ideation-detection-nlp)** — NLP model detecting suicidal ideation in social text
+- **[straw-hat-pirate-crew](https://github.com/hike-042/straw-hat-pirate-crew)**: Interactive One Piece Straw Hat timeskip reveal page
+- **[dhanushkumar-portfolio](https://github.com/hike-042/dhanushkumar-portfolio)**: Personal portfolio, built with TypeScript
+- **[amourai](https://github.com/hike-042/amourai)**: AI joke chatbot, dual avatars, voice and lip sync, 18 agents (Flask + Groq)
+- **[suicidal-ideation-detection-nlp](https://github.com/hike-042/suicidal-ideation-detection-nlp)**: NLP model detecting suicidal ideation in social text
 
 <p align="center">
   <picture>
@@ -80,7 +80,11 @@ Dual background (CSE + MBA-HR) means I build for how recruiters actually work, n
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hike-042&theme=dark&hide_border=true" alt="hike-042 streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=hike-042&theme=github-dark&hide_border=true" alt="hike-042 streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hike-042&theme=react-dark&hide_border=true" alt="hike-042 activity graph" />
 </p>
 
 ---
