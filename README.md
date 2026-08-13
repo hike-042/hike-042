@@ -138,6 +138,9 @@ Dual background (CSE + MBA-HR) means I build for how recruiters actually work, n
 ## Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [[No Title] - from-intern-to-ai-automation-engineer.html](https://dhanushkumarr.blogspot.com/2026/07/from-intern-to-ai-automation-engineer.html)
+- [How College Gave Me More Than a Degree](https://dhanushkumarr.blogspot.com/2025/06/how-college-gave-me-more-than-degree.html)
+- [Mass on Screen, Humble in Life – Why I’ll Always Watch Ajith](https://dhanushkumarr.blogspot.com/2025/06/mass-on-screen-humble-in-life-why-ill.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center"><a href="https://dhanushkumarr.blogspot.com">Read more on the blog →</a></p>
