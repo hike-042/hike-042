@@ -17,7 +17,8 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: hike-042
-          output_path: trophy.svg
+          file: trophy.svg
+          theme: darkhub
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit and push
         run: |
